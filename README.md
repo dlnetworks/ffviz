@@ -19,4 +19,4 @@ $ ./ffviz.sh /full/path/to/audioinput.mp3 /full/path/to/ffviz/output.mp4
 
 dependencies: ffmpeg, mediainfo, randomize-lines, bc  
 
-https://www.dlnetworks.net
+examples: https://www.dsfm.tv | https://www.youtube.com/dubstepfm
