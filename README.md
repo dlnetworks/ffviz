@@ -17,6 +17,6 @@ here is an example using local input and output files
 
 $ ./ffviz.sh /full/path/to/audioinput.mp3 /full/path/to/ffviz/output.mp4
 
-script pre-requisits: ffmpeg, mediainfo, randomize-lines, bc  
+dependencies: ffmpeg, mediainfo, randomize-lines, bc  
 
 https://www.dlnetworks.net
