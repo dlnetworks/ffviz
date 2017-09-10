@@ -1,9 +1,8 @@
-# FFVIZ                                    
-## V 1.0                                    
+# FFVIZ V1.0                                    
 
 ### usage: Configure the options below, save and execute                             
                                                                                   
-$ ./ffviz.sh <input> <output>                                                    
+#### $ ./ffviz.sh <input> <output>                                                    
                                                                                   
 <input> should be the audio to analyze for visual reactions                      
 <output> should be a path to a local file, or a remote livestream server         
