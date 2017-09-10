@@ -47,7 +47,7 @@ fps="60";
 bv="20M";
 
 # audio bitrate
-ba="256k"
+ba="256k";
 
 # video codec
 cv="h264";
