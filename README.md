@@ -2,10 +2,10 @@
 
 usage: Configure the options below, save and execute                             
 
-$ ./ffviz.sh <input> <output>                                                    
+$ ./ffviz.sh \<input\> \<output\>                                                    
 
-<input> should be the audio to analyze for visual reactions                      
-<output> should be a path to a local file, or a remote livestream server         
+\<input\> should be the audio to analyze for visual reactions                      
+\<output\> should be a path to a local file, or a remote livestream server         
 
 populate playlist.txt with a list of full paths to video files
 
