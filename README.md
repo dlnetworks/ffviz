@@ -1,6 +1,6 @@
-# FFVIZ V1.0                                    
+# FFVIZ V1.0
 
-usage: Configure the options below, save and execute                             
+Configure the options in ffviz.sh, save, make executable, execute.                             
 
 $ ./ffviz.sh \<input\> \<output\>                                                    
 
