@@ -1,7 +1,7 @@
 # FFVIZ                                    
 ## V 1.0                                    
 
-usage: Configure the options below, save and execute                             
+### usage: Configure the options below, save and execute                             
                                                                                   
 $ ./ffviz.sh <input> <output>                                                    
                                                                                   
